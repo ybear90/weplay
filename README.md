@@ -12,7 +12,7 @@
 <tr>
     <td>(20)</td>
     <td>1</td>
-    <td>2</td>
+    <td>(2)</td>
     <td>(17)</td>
     <td></td>
 </tr>
