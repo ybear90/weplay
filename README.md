@@ -4,7 +4,7 @@
 <tbody>
 <tr>
     <td>4</td>
-    <td>11</td>
+    <td></td>
     <td>25</td>
     <td>9</td>
     <td>14</td>
